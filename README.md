@@ -1,1 +1,1 @@
-# dss-time-tracker
+Internal Test Project for React Native
